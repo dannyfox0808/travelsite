@@ -1,2 +1,1 @@
-# travelsite
-A practice project.
+This was a test project. It never went live.
